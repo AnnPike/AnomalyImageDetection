@@ -8,3 +8,5 @@ Then I work with these embedding vectors in ```3get_embeding_and_predict.ipynb``
 ![alt text](https://github.com/AnnPike/AnomalyImageDetection/blob/main/clustering.png)<br />
 I plot the images of each cluster and obtain perfect results where one of the clusters contains all anomalous images, whereas other clusters represent numbers 1 and 2 from MNIST dataset.<br />
 ![alt text](https://github.com/AnnPike/AnomalyImageDetection/blob/main/anomaly_cluster.png)
+
+*Note, the trained NN is not added to GitHub because it is larger than GitHib allows
